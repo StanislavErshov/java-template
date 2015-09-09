@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.spbu.cs.IntSortTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-09-09T16:07:15" hostname="dell-xps" time="19.1">
+  <properties/>
+  <testcase name="testSortList" classname="edu.spbu.cs.IntSortTest" time="15.496"/>
+  <testcase name="testSortArray" classname="edu.spbu.cs.IntSortTest" time="3.604"/>
+  <system-out><![CDATA[Execution time(ms) 5385
+Execution time(ms) 2518
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
